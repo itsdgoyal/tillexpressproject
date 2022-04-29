@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner a{
+    text-decoration: none;
+    color: white;
+}
+#mainbanner h1{
+    color: green;
+}
+#nav-bar{
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+}
+#nav-bar .navbar-nav a{
+    font-size: 17px;
+    font-weight: lighter;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    padding-right: 20px;
+}
+#nav-bar .navbar-nav a:hover{
+    border: 1px solid aliceblue;
+    border-radius: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#nav-bar .navbar-brand img{
+    width: 100px;
+    height: 70px;
+    margin-left: 20px;
+}
+#nav-bar fa-solid{
+    font-size: 500px;
+}
+#banner img{
+    width: 100%;
+    }
+#banner{
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+}
+#banner #title{
+    color:  white;
+    font-size: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+#banner p{
+    color: white;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+#footer img{
+    width: 100%;
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+    margin-bottom: 8px ;
+}
+#footer{
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+    color: white;
+    padding-bottom: 50px ;
+}
+#footer #footer-logo{
+    width: 100px;
+}
+#footer p{
+    color: white;
+    font-size: 12px;
+}
+#about{
+    background-color:azure;
+    margin-top: 70px;
+}
+#about img{
+    width:400px;
+}
+#about h1{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: green;
+    transition-property: fontsize;
+    transition-duration: 2s;
+}
+#about h1:hover{
+    font-size: 40px;
+    font-weight: bolder;
+}
+#testi{
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+#testi h1{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: green;
+    transition-property: fontsize;
+    transition-duration: 2s;
+}
+#testi h1:hover{
+    font-size: 40px;
+    font-weight: bolder;
+}
+#testi img{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom:20px;
+    transition-property: width;
+    transition-duration: 2s;
+}
+#testi img:hover{
+    width:150px;
+}
+#testi p{
+    color: green ;
+}
+
+#header{
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+    padding-bottom: 60px;
+}
+#header h1{
+    color: red;
+}
+#header button{
+    color: white;
+    float: right;
+    margin-right: 100px;
+}
+#mid{
+    background: linear-gradient(to right,rgb(0, 0, 128),rgb(0, 0, 255));
+    border: 1px solid white;
+    padding-top: 20px;
+    
+}
+#mid table{ 
+    font-size: 13px;
+    color: white;
+}
+#mid table th{
+    text-align: center;
+    color: white;
+    border: 1px solid green;
+}
+#mid table tr{
+    border: 1px solid green;
+    color: white;
+}
+#mid table td{
+    color:white;
+}
+
+#aboutbutton{
+    margin-top: 10px;
+}
+#aboutbutton a{
+    text-decoration: none;
+    color: white;
+}
